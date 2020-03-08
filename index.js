@@ -46,5 +46,5 @@ client.on('message', msg => {
 
 
 
-client.login('NjUxMjQ3OTQ3MzI1MTEyMzUx.Xllbtg.1YHLYPA4Jq-6HCC5rNEZqSl4CV0');
+client.login(process.ev.TOKEN);
 
